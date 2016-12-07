@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/PrefManager.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/Search_answers.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/SplashScreen.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/article_fragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/yash/googlehackathon/Aditya/video_fragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/article.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/giphy.gif" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/giphy.gif" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/invite.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/video.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/article.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/giphy.gif" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/invite.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/video.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_search_answers.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/article_fragment_layout.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/video_fragment_layout.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
